@@ -1,8 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[54]:
-
 
 import numpy as np
 import pandas as pd
@@ -10,9 +5,6 @@ import json
 import requests
 import csv
 import time
-
-
-# In[56]:
 
 
 while True:
